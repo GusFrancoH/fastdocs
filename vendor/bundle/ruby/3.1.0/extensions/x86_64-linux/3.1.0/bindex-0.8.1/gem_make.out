@@ -1,0 +1,15 @@
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/home/gustavo/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/gustavo/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20240712-38883-cdc45d.rb extconf.rb
+creating Makefile
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240712-38883-v2o9vs/skiptrace/internal

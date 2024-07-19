@@ -1,0 +1,15 @@
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+/home/gustavo/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/gustavo/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20240712-38883-h9bedd.rb extconf.rb
+creating Makefile
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= clean
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240712-38883-dv1xae

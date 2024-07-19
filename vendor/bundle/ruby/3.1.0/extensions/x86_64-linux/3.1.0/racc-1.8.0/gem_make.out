@@ -1,0 +1,15 @@
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+/home/gustavo/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/gustavo/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20240712-38883-z7hyf1.rb extconf.rb
+creating Makefile
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240712-38883-d9y2cz/racc

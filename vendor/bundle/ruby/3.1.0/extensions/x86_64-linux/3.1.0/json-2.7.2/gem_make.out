@@ -1,0 +1,16 @@
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+/home/gustavo/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240718-146713-465zkw sitelibdir\=./.gem.20240718-146713-465zkw clean
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240718-146713-465zkw sitelibdir\=./.gem.20240718-146713-465zkw
+make: Nothing to be done for 'all'.
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240718-146713-465zkw sitelibdir\=./.gem.20240718-146713-465zkw install
+
+current directory: /home/gustavo/code/fernidocs/fastdocs/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240718-146713-465zkw sitelibdir\=./.gem.20240718-146713-465zkw clean

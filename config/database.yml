@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: fernidocs_usuario
+  password: <%= ENV['FERNIDOCS_DATABASE_PW'] %>
+  host: localhost
+
+development:
+  <<: *default
+  database: fernidocs_db
+
+test:
+  <<: *default
+  database: fernidocs_test
+
+production:
+  <<: *default
+  database: fernidocs_production
+  username: fernidocs_usuario
+  password: <%= ENV['FERNIDOCS_DATABASE_PW'] %>
